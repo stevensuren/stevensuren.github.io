@@ -25,3 +25,11 @@ h4 {
 p {
   font-size: 14px;
 }
+h5 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+a {
+  color: white;
+}
